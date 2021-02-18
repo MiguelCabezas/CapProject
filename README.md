@@ -1,2 +1,3 @@
 # CapProject
-Capstone main repo
+
+Capstone project for Christian, Ryan, Gonzalo, and Miguel.
